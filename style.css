@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    
+    height: 80px;
+}
+
+.menu-left {
+    float: left;
+    width: 30%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-left img {
+    height: 40px;
+    padding-right: 190px;
+}
+
+.menu-right {
+    float: left;
+    width: 70%;
+    height: 100%;
+
+}
