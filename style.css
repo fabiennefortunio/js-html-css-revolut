@@ -33,20 +33,19 @@ header {
 }
 
 .menu {
-    background-color: red;
     height: 100%;
     width: 600px;
     float: right;
 }
 
-.menu-item {
+.submenu {
     display: inline-block;
 
 }
 
-.menu-item a {
+.submenu a {
     line-height: 70px;
     padding: 10px;
     text-decoration: none;
-    color: lightgreen;
+    color: lightgrey;
 }
