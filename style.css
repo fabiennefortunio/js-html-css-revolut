@@ -38,3 +38,15 @@ header {
     width: 600px;
     float: right;
 }
+
+.menu-item {
+    display: inline-block;
+
+}
+
+.menu-item a {
+    line-height: 70px;
+    padding: 10px;
+    text-decoration: none;
+    color: lightgreen;
+}
